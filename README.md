@@ -3,8 +3,8 @@
 ## 🚀 Sobre Mim
 Eu sou um Analista de Revenue Operations e Graduando em Engenharia da Computação apaixonado por tecnologia. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-- 🔭 Atualmente estou trabalhando em um sistema de gerenciamento de salas de re reunião para co-working.
-- 🌱 Estou aprendendo Node.Js e React.
+- 🔭 Atualmente estou trabalhando em um sistema de gerenciamento de alugueis corporativos como projeto de TCC.
+- 🌱 Estou aprendendo Next.JS e React.
 
 ## 🛠️ Habilidades
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
@@ -20,4 +20,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ## 📊 Estatísticas do GitHub
 Aqui estão algumas das minhas estatísticas no GitHub:
 
-[![Estatísticas do GitHub de Artur-Santana](https://github-readme-stats.vercel.app/api?username=Artur-Santana&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)](https://github.com/Artur-Santana)
+[![Estatísticas do GitHub de Artur-Santana](https://github-readme-stats.vercel.app/api?username=Artur-Santana&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
